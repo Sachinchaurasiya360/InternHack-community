@@ -1,8 +1,8 @@
 # InternHack
 
-**Prepare. Practice. Placed.**
+**Prepare. Practice. Place.**
 Live at **[internhack.xyz](https://www.internhack.xyz)**
-
+Note: Due to abuse of the AI CODEING agent internHack Prod repo is private, and this repo is a community-focused repo. And changes here will not render at the [internhack.xyz](https://www.internhack.xyz)
 
 ## About InternHack
 - AI-powered career and hiring platform
